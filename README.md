@@ -79,3 +79,30 @@ The data types detected in Tableau match the expected business meaning:
 - No obvious data type mismatches were detected.
 - Geographic hierarchy exists at Region → State → City level.
 - Dataset contains both transactional and customer experience metrics, enabling sales, profitability, delivery, and customer satisfaction analysis.
+
+## Task 3: Tableau Views Created
+
+The following worksheets were created:
+
+1. Sales Trend View
+   - Line chart showing sales over time.
+
+2. Regional Performance View
+   - Bar chart comparing sales and profit across regions.
+
+3. Category Profitability View
+   - Category and sub-category level profit analysis.
+
+4. Customer Segment View
+   - Performance comparison across customer segments.
+
+5. Shipping Performance View
+   - Delivery performance by shipping mode and delay bucket.
+
+6. Discount vs Profit View
+   - Scatter plot analyzing the relationship between discounts and profitability.
+
+7. Return Analysis View
+   - Return rate analysis by category, region, and customer segment.
+
+These views were combined into an interactive Tableau dashboard with global filters for Region, Category, Customer Segment, and Date.
