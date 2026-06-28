@@ -122,3 +122,39 @@ The dashboard uses chart types that align with the underlying business questions
 | Return Analysis | Bar Chart | Compares return rates across groups |
 
 All chart selections prioritize clarity, comparability, and business decision-making while avoiding misleading or decorative visualizations.
+
+## Task 5: Executive Dashboard
+
+An Executive Sales Performance Dashboard was created in Tableau containing:
+
+### KPI Cards
+- Total Sales
+- Total Profit
+- Profit Margin
+- Return Rate
+
+### Visualizations
+1. Sales Trend
+2. Regional Performance
+3. Category Profitability
+4. Customer Segment Analysis
+5. Discount vs Profit
+6. Shipping Performance
+7. Return Analysis
+
+### Interactive Filters
+- Region
+- Category
+- Customer Segment
+- Order Date
+- Ship Mode
+
+### Dashboard Action
+A filter action was implemented where selecting a region dynamically updates all dashboard visualizations.
+
+### Design Principles
+- Clean layout
+- Business-friendly formatting
+- Consistent color scheme
+- Minimal visual clutter
+- Clear titles and labels
