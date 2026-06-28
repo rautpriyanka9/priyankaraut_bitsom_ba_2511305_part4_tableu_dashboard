@@ -106,3 +106,19 @@ The following worksheets were created:
    - Return rate analysis by category, region, and customer segment.
 
 These views were combined into an interactive Tableau dashboard with global filters for Region, Category, Customer Segment, and Date.
+
+## Task 4: Appropriate Chart Selection
+
+The dashboard uses chart types that align with the underlying business questions:
+
+| Business Question | Chart Type | Reason |
+|------------------|------------|---------|
+| Sales trend over time | Line Chart | Best for trend analysis |
+| Regional performance | Bar Chart | Easy comparison between regions |
+| Category profitability | Bar Chart | Clear profit comparison across categories |
+| Customer segment performance | Bar Chart | Effective segment comparison |
+| Shipping delays by mode | Bar Chart | Highlights delivery performance differences |
+| Discount vs Profit | Scatter Plot | Shows relationship between two numerical measures |
+| Return Analysis | Bar Chart | Compares return rates across groups |
+
+All chart selections prioritize clarity, comparability, and business decision-making while avoiding misleading or decorative visualizations.
